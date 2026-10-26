@@ -1,0 +1,5 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+imageio-ffmpeg>=0.5.1
